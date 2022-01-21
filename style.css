@@ -1,3 +1,4 @@
+
 .container{
     width: 700px;
     height: 620px;
@@ -67,10 +68,8 @@
     width:660px;
     background-color: yellow;
     position: relative;
-    top: -200px;
     text-align: center;
     line-height: 4;
     top: -317.5px;
 
 }
-
